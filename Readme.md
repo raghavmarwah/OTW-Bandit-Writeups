@@ -1,4 +1,4 @@
-#OverTheWire Bandit
+# OverTheWire Bandit
 
 In this repo I'll be posting write-ups to solve the levels of the popular
 ssh based wargame Bandit, avaiable at https://overthewire.org/wargames/bandit/
@@ -9,6 +9,6 @@ goto to the next level, the way I solved the levels and the commands I used
 will be posted publically though.
 
 While solving this game even I had to look up parts of solutions to a few
-levels online, I will be giving credit where due.
+levels online, I will be giving proper credit where due.
 
 Thanks!
